@@ -1,0 +1,11 @@
+streamlit
+pandas
+scikit-learn
+joblib
+plotly
+matplotlib
+seaborn
+numpy
+Pillow
+smtplib
+email
