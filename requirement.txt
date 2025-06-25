@@ -1,11 +1,10 @@
 streamlit
 pandas
+numpy
 scikit-learn
-joblib
-plotly
 matplotlib
 seaborn
-numpy
-Pillow
-smtplib
-email
+plotly
+joblib
+openpyxl
+
